@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "異邦人",
+  "base_artist": "宮本浩次",
+  "createdAt": "2026-02-25T04:07:16.474042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/01_異邦人_May_J..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "Hanafugetsu",
+      "has_synced": false,
+      "path": "select/02_異邦人_Hanafugetsu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/03_異邦人_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/04_異邦人_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "PENICILLIN",
+      "has_synced": false,
+      "path": "select/05_異邦人_PENICILLIN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "久保田早紀",
+      "has_synced": true,
+      "path": "select/06_異邦人_久保田早紀.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/07_異邦人_徳永英明.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "柴田 淳",
+      "has_synced": false,
+      "path": "select/08_異邦人_柴田_淳.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "異邦人-kai",
+      "artist": "久保田早紀",
+      "has_synced": true,
+      "path": "select/09_異邦人-kai_久保田早紀.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "久保田早紀",
+      "has_synced": false,
+      "path": "select/10_異邦人_久保田早紀.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "Saki Kubota",
+      "has_synced": false,
+      "path": "select/11_異邦人_Saki_Kubota.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "Kubota Saki",
+      "has_synced": false,
+      "path": "select/12_異邦人_Kubota_Saki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "柴田淳",
+      "has_synced": false,
+      "path": "select/13_異邦人_柴田淳.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/14_異邦人_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/15_異邦人_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "異邦人",
+      "artist": "Jun Shibata",
+      "has_synced": false,
+      "path": "select/16_異邦人_Jun_Shibata.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "異邦人",
+      "artist": "宮本 浩次",
+      "has_synced": false,
+      "path": "select/pl_01_異邦人_宮本_浩次.txt"
+    }
+  ]
+}
